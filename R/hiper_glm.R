@@ -1,3 +1,4 @@
+#' @export
 hiper_glm <- function(design, outcome) {
   warning("This function is to be implemented")
   hglm_out <- list()
